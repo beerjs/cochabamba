@@ -57,7 +57,7 @@ meet(requisitos)
     console.log('los amigos son necesarios para conseguir unas buenas cervezas frias')
   })
 ```
-:beer: :dancers: :ok_hand:
+:beer: :pizza: :fries: :ok_hand:
 ## 
 ## Auspicio
 ### ¿Quieres apoyar a beerjs?
