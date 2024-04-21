@@ -58,7 +58,12 @@ meet(requisitos)
   })
 ```
 :beer: :pizza: :fries: :ok_hand:
-## 
+## Eventos
+| #   | Fecha              | Lugar                               | Comemtarios            |
+|-----|--------------------|-------------------------------------|------------------------|
+| 2   | 27 Abril, 2023     | BROS                                |                        |
+| 1   | 2020               | Online                              |                        |
+
 ## Auspicio
 ### ¿Quieres apoyar a beerjs?
 [contactanos](https://beerjscbba@gmail.com) :e-mail:
