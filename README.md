@@ -61,7 +61,8 @@ meet(requisitos)
 ## Eventos
 | #   | Fecha              | Lugar                               | Comemtarios            |
 |-----|--------------------|-------------------------------------|------------------------|
-| 2   | 27 Abril, 2023     | BROS                                |                        |
+| 3   | 25 Mayo, 2024      | INTERSIM                            |                        |
+| 2   | 27 Abril, 2024     | BROS                                |                        |
 | 1   | 2020               | Online                              |                        |
 
 ## Auspicio
